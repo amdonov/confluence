@@ -181,7 +181,7 @@
                         "port": 8090,
                         "targetPort": 8090,
                         "nodePort": 0
-                    },
+                    }
                 ],
                 "selector": {
                     "deploymentconfig": "confluence"
